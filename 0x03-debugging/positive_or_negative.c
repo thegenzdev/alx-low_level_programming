@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: print value of n satus; zero, positive or negative
+ * Description: print value of i status; zero, positive_or_negative
  *
  * Return: Always 0 (Success)
 */
